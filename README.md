@@ -1,4 +1,4 @@
-# Microservices and Monolithic Architecture
+# Use of Microservices Architecture at Netflix and Other Companies
 
 A short explanation of microservices architecture, how organizations apply it in real systems, examples from companies such as Netflix, and situations where some organizations returned to monolithic designs.
 
